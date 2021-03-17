@@ -1,0 +1,8 @@
+main: net.mcreator.sacrifice.SacrificeMod
+name: Sacrifice
+version: 1.0.0
+authors: [alex, MCreator]
+website: https://mcreator.net
+api-version: 1.16
+
+commands:

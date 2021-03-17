@@ -1,0 +1,37 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SacrificeCommandExecuted",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sacrifice_command_executed"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "sacrifice",
+    "modName": "Sacrifice",
+    "version": "1.0.0",
+    "author": "alex, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "spigot-1.16.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.sacrifice",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
